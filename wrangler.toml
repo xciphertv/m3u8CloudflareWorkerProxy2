@@ -2,7 +2,7 @@ name = "hls"
 main = "src/index.ts"
 compatibility_date = "2023-03-12"
 compatibility_flags = ["nodejs_compat"]
-account_id = "2ee15dd940d0fd0299d89f08199bec5a"
+# account_id = "2ee15dd940d0fd0299d89f08199bec5a"
 
 [build]
 command = "npm run build --if-present"
